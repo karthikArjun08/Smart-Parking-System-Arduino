@@ -24,9 +24,4 @@ This project demonstrates a simple and efficient **Smart Parking System** using 
 - Smart cities
 - Colleges and offices
 
-## 📸 Project Preview
-![Smart Parking System]( smart parking Image.png )
 
-## 👨‍💻 Author
-**Karthik Arjun**  
-Embedded Systems & IoT Enthusiast
